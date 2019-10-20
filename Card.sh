@@ -2,7 +2,7 @@
 
 
 sleep 2
-figlet Cyber kallan
+figlet Cyber_kallan
 sleep 2
 apt-get update && apt-get upgrade
 sleep 2
