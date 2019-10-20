@@ -1,2 +1,4 @@
-# Card-Number
-Cari cc dari termux
+# Cardershub
+you can get free cc information from hear
+## coded by cyber kallan (mallu youtuber)
+## do not try 
