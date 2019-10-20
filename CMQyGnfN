@@ -15,16 +15,16 @@ ___ ____ _____    ____              _
  | | |     | |   | |   / _` | '__/ _` |
  | | |___  | |   | |__| (_| | | | (_| |
 |___\____| |_|    \____\__,_|_|  \__,_|
-
+please subscribe my youtube channel
 ";
 echo $blue . "==================================";
-echo $bold . $green . "\nCoder   : php.Script Code
-Team    : INDOnimous Security Script
+echo $bold . $green . "\nCoder   : CYBER KALLAN
+Team    : KST (kerala security team)
 Code    : PHP
 Version : 8.9.8.0
 Note: 
-JANGAN PERCAYA KEPADA SIAPAPUN.!! \n";
-echo $bold . $green . "DMYH    : $date\n";
+CARDING IS ILLEGEL DNT.!! \n";
+echo $bold . $green . "DATE    : $date\n";
 echo $blue . "==================================\n";
 echo $bold . $red . "Count      : ";
 $count = trim(fgets(STDIN,1024));
